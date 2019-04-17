@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DD6CD67D2265DBC000E10C50 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD67C2265DBC000E10C50 /* AppDelegate.m */; };
-		DD6CD6802265DBC000E10C50 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD67F2265DBC000E10C50 /* ViewController.m */; };
-		DD6CD6832265DBC000E10C50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD6CD6812265DBC000E10C50 /* Main.storyboard */; };
-		DD6CD6852265DBC300E10C50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6CD6842265DBC300E10C50 /* Assets.xcassets */; };
-		DD6CD6882265DBC300E10C50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD6CD6862265DBC300E10C50 /* LaunchScreen.storyboard */; };
-		DD6CD68B2265DBC300E10C50 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD68A2265DBC300E10C50 /* main.m */; };
-		DD6CD6932266BDA700E10C50 /* HZSegmentalSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD6922266BDA700E10C50 /* HZSegmentalSelectionView.m */; };
+		DD6CD6A62266D19A00E10C50 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD6A52266D19A00E10C50 /* AppDelegate.m */; };
+		DD6CD6A92266D19A00E10C50 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD6A82266D19A00E10C50 /* ViewController.m */; };
+		DD6CD6AC2266D19A00E10C50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD6CD6AA2266D19A00E10C50 /* Main.storyboard */; };
+		DD6CD6AE2266D19B00E10C50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6CD6AD2266D19B00E10C50 /* Assets.xcassets */; };
+		DD6CD6B12266D19B00E10C50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD6CD6AF2266D19B00E10C50 /* LaunchScreen.storyboard */; };
+		DD6CD6B42266D19B00E10C50 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD6B32266D19B00E10C50 /* main.m */; };
+		DD6CD6BD2266D1C200E10C50 /* HZSegmentalSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6CD6BC2266D1C200E10C50 /* HZSegmentalSelectionView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DD6CD6782265DBC000E10C50 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD6CD67B2265DBC000E10C50 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		DD6CD67C2265DBC000E10C50 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		DD6CD67E2265DBC000E10C50 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		DD6CD67F2265DBC000E10C50 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		DD6CD6822265DBC000E10C50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DD6CD6842265DBC300E10C50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DD6CD6872265DBC300E10C50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DD6CD6892265DBC300E10C50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DD6CD68A2265DBC300E10C50 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DD6CD6912266BDA700E10C50 /* HZSegmentalSelectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HZSegmentalSelectionView.h; sourceTree = "<group>"; };
-		DD6CD6922266BDA700E10C50 /* HZSegmentalSelectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HZSegmentalSelectionView.m; sourceTree = "<group>"; };
+		DD6CD6A12266D19A00E10C50 /* HZSegmentalSelectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HZSegmentalSelectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD6CD6A42266D19A00E10C50 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DD6CD6A52266D19A00E10C50 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DD6CD6A72266D19A00E10C50 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DD6CD6A82266D19A00E10C50 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DD6CD6AB2266D19A00E10C50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DD6CD6AD2266D19B00E10C50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DD6CD6B02266D19B00E10C50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DD6CD6B22266D19B00E10C50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD6CD6B32266D19B00E10C50 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DD6CD6BB2266D1C200E10C50 /* HZSegmentalSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HZSegmentalSelectionView.h; sourceTree = "<group>"; };
+		DD6CD6BC2266D1C200E10C50 /* HZSegmentalSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HZSegmentalSelectionView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DD6CD6752265DBC000E10C50 /* Frameworks */ = {
+		DD6CD69E2266D19A00E10C50 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,75 +42,83 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DD6CD66F2265DBC000E10C50 = {
+		DD6CD6982266D19A00E10C50 = {
 			isa = PBXGroup;
 			children = (
-				DD6CD67A2265DBC000E10C50 /* test */,
-				DD6CD6792265DBC000E10C50 /* Products */,
+				DD6CD6A32266D19A00E10C50 /* HZSegmentalSelectionView */,
+				DD6CD6A22266D19A00E10C50 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DD6CD6792265DBC000E10C50 /* Products */ = {
+		DD6CD6A22266D19A00E10C50 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DD6CD6782265DBC000E10C50 /* test.app */,
+				DD6CD6A12266D19A00E10C50 /* HZSegmentalSelectionView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DD6CD67A2265DBC000E10C50 /* test */ = {
+		DD6CD6A32266D19A00E10C50 /* HZSegmentalSelectionView */ = {
 			isa = PBXGroup;
 			children = (
-				DD6CD67B2265DBC000E10C50 /* AppDelegate.h */,
-				DD6CD67C2265DBC000E10C50 /* AppDelegate.m */,
-				DD6CD67E2265DBC000E10C50 /* ViewController.h */,
-				DD6CD67F2265DBC000E10C50 /* ViewController.m */,
-				DD6CD6912266BDA700E10C50 /* HZSegmentalSelectionView.h */,
-				DD6CD6922266BDA700E10C50 /* HZSegmentalSelectionView.m */,
-				DD6CD6812265DBC000E10C50 /* Main.storyboard */,
-				DD6CD6842265DBC300E10C50 /* Assets.xcassets */,
-				DD6CD6862265DBC300E10C50 /* LaunchScreen.storyboard */,
-				DD6CD6892265DBC300E10C50 /* Info.plist */,
-				DD6CD68A2265DBC300E10C50 /* main.m */,
+				DD6CD6BA2266D1C200E10C50 /* HZSegmentalSelectionView */,
+				DD6CD6A42266D19A00E10C50 /* AppDelegate.h */,
+				DD6CD6A52266D19A00E10C50 /* AppDelegate.m */,
+				DD6CD6A72266D19A00E10C50 /* ViewController.h */,
+				DD6CD6A82266D19A00E10C50 /* ViewController.m */,
+				DD6CD6AA2266D19A00E10C50 /* Main.storyboard */,
+				DD6CD6AD2266D19B00E10C50 /* Assets.xcassets */,
+				DD6CD6AF2266D19B00E10C50 /* LaunchScreen.storyboard */,
+				DD6CD6B22266D19B00E10C50 /* Info.plist */,
+				DD6CD6B32266D19B00E10C50 /* main.m */,
 			);
-			path = test;
+			path = HZSegmentalSelectionView;
+			sourceTree = "<group>";
+		};
+		DD6CD6BA2266D1C200E10C50 /* HZSegmentalSelectionView */ = {
+			isa = PBXGroup;
+			children = (
+				DD6CD6BB2266D1C200E10C50 /* HZSegmentalSelectionView.h */,
+				DD6CD6BC2266D1C200E10C50 /* HZSegmentalSelectionView.m */,
+			);
+			path = HZSegmentalSelectionView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DD6CD6772265DBC000E10C50 /* test */ = {
+		DD6CD6A02266D19A00E10C50 /* HZSegmentalSelectionView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD6CD68E2265DBC300E10C50 /* Build configuration list for PBXNativeTarget "test" */;
+			buildConfigurationList = DD6CD6B72266D19B00E10C50 /* Build configuration list for PBXNativeTarget "HZSegmentalSelectionView" */;
 			buildPhases = (
-				DD6CD6742265DBC000E10C50 /* Sources */,
-				DD6CD6752265DBC000E10C50 /* Frameworks */,
-				DD6CD6762265DBC000E10C50 /* Resources */,
+				DD6CD69D2266D19A00E10C50 /* Sources */,
+				DD6CD69E2266D19A00E10C50 /* Frameworks */,
+				DD6CD69F2266D19A00E10C50 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = test;
-			productName = test;
-			productReference = DD6CD6782265DBC000E10C50 /* test.app */;
+			name = HZSegmentalSelectionView;
+			productName = HZSegmentalSelectionView;
+			productReference = DD6CD6A12266D19A00E10C50 /* HZSegmentalSelectionView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DD6CD6702265DBC000E10C50 /* Project object */ = {
+		DD6CD6992266D19A00E10C50 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = yongdaoyun;
 				TargetAttributes = {
-					DD6CD6772265DBC000E10C50 = {
+					DD6CD6A02266D19A00E10C50 = {
 						CreatedOnToolsVersion = 10.2;
 					};
 				};
 			};
-			buildConfigurationList = DD6CD6732265DBC000E10C50 /* Build configuration list for PBXProject "test" */;
+			buildConfigurationList = DD6CD69C2266D19A00E10C50 /* Build configuration list for PBXProject "HZSegmentalSelectionView" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,56 +126,56 @@
 				en,
 				Base,
 			);
-			mainGroup = DD6CD66F2265DBC000E10C50;
-			productRefGroup = DD6CD6792265DBC000E10C50 /* Products */;
+			mainGroup = DD6CD6982266D19A00E10C50;
+			productRefGroup = DD6CD6A22266D19A00E10C50 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD6CD6772265DBC000E10C50 /* test */,
+				DD6CD6A02266D19A00E10C50 /* HZSegmentalSelectionView */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DD6CD6762265DBC000E10C50 /* Resources */ = {
+		DD6CD69F2266D19A00E10C50 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD6CD6882265DBC300E10C50 /* LaunchScreen.storyboard in Resources */,
-				DD6CD6852265DBC300E10C50 /* Assets.xcassets in Resources */,
-				DD6CD6832265DBC000E10C50 /* Main.storyboard in Resources */,
+				DD6CD6B12266D19B00E10C50 /* LaunchScreen.storyboard in Resources */,
+				DD6CD6AE2266D19B00E10C50 /* Assets.xcassets in Resources */,
+				DD6CD6AC2266D19A00E10C50 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DD6CD6742265DBC000E10C50 /* Sources */ = {
+		DD6CD69D2266D19A00E10C50 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD6CD6932266BDA700E10C50 /* HZSegmentalSelectionView.m in Sources */,
-				DD6CD6802265DBC000E10C50 /* ViewController.m in Sources */,
-				DD6CD68B2265DBC300E10C50 /* main.m in Sources */,
-				DD6CD67D2265DBC000E10C50 /* AppDelegate.m in Sources */,
+				DD6CD6BD2266D1C200E10C50 /* HZSegmentalSelectionView.m in Sources */,
+				DD6CD6A92266D19A00E10C50 /* ViewController.m in Sources */,
+				DD6CD6B42266D19B00E10C50 /* main.m in Sources */,
+				DD6CD6A62266D19A00E10C50 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DD6CD6812265DBC000E10C50 /* Main.storyboard */ = {
+		DD6CD6AA2266D19A00E10C50 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD6CD6822265DBC000E10C50 /* Base */,
+				DD6CD6AB2266D19A00E10C50 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		DD6CD6862265DBC300E10C50 /* LaunchScreen.storyboard */ = {
+		DD6CD6AF2266D19B00E10C50 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD6CD6872265DBC300E10C50 /* Base */,
+				DD6CD6B02266D19B00E10C50 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -175,7 +183,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		DD6CD68C2265DBC300E10C50 /* Debug */ = {
+		DD6CD6B52266D19B00E10C50 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -234,7 +242,7 @@
 			};
 			name = Debug;
 		};
-		DD6CD68D2265DBC300E10C50 /* Release */ = {
+		DD6CD6B62266D19B00E10C50 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -287,35 +295,35 @@
 			};
 			name = Release;
 		};
-		DD6CD68F2265DBC300E10C50 /* Debug */ = {
+		DD6CD6B82266D19B00E10C50 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 75UTKDJ2KZ;
-				INFOPLIST_FILE = test/Info.plist;
+				INFOPLIST_FILE = HZSegmentalSelectionView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.yongdaoyun.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yongdaoyun.HZSegmentalSelectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		DD6CD6902265DBC300E10C50 /* Release */ = {
+		DD6CD6B92266D19B00E10C50 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 75UTKDJ2KZ;
-				INFOPLIST_FILE = test/Info.plist;
+				INFOPLIST_FILE = HZSegmentalSelectionView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.yongdaoyun.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yongdaoyun.HZSegmentalSelectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -324,25 +332,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DD6CD6732265DBC000E10C50 /* Build configuration list for PBXProject "test" */ = {
+		DD6CD69C2266D19A00E10C50 /* Build configuration list for PBXProject "HZSegmentalSelectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD6CD68C2265DBC300E10C50 /* Debug */,
-				DD6CD68D2265DBC300E10C50 /* Release */,
+				DD6CD6B52266D19B00E10C50 /* Debug */,
+				DD6CD6B62266D19B00E10C50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD6CD68E2265DBC300E10C50 /* Build configuration list for PBXNativeTarget "test" */ = {
+		DD6CD6B72266D19B00E10C50 /* Build configuration list for PBXNativeTarget "HZSegmentalSelectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD6CD68F2265DBC300E10C50 /* Debug */,
-				DD6CD6902265DBC300E10C50 /* Release */,
+				DD6CD6B82266D19B00E10C50 /* Debug */,
+				DD6CD6B92266D19B00E10C50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DD6CD6702265DBC000E10C50 /* Project object */;
+	rootObject = DD6CD6992266D19A00E10C50 /* Project object */;
 }
